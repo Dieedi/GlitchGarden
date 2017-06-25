@@ -5,19 +5,21 @@ using UnityEngine;
 //[RequireComponent(typeof(LevelManager))]
 public class SplashSoundController : MonoBehaviour {
 
-	private LevelManager levelManager;
+	public GameObject Fader;
+
+	private FadeController fader;
 	private AudioSource audioSource;
 
 	// Use this for initialization
 	void Start () {
 		audioSource = GetComponent<AudioSource> ();
-		levelManager = GameObject.Find("LevelManager").GetComponent<LevelManager> ();
+		fader = Fader.GetComponent<FadeController> ();
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		if (!audioSource.isPlaying) {
-			levelManager.LoadNextLevel ();
+			fader.LoadNextLevel ();
 		}
 	}
 }

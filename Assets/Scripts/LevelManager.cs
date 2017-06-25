@@ -2,19 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour {
 
+	public GameObject Fader;
+
 	void Start () {
+		
 	}
 
 	void Update () {
-		
+		print ("hop");
 	}
 
 	// Use this for initialization
 	public void LoadLevel (string name) {
-		SceneManager.LoadScene (name);
 	}
 
 	public void QuitRequest () {

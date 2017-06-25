@@ -27,4 +27,8 @@ public class MusicManager : MonoBehaviour {
 			audioSource.Play ();
 		}
 	}
+
+	public void SetVolume (float value) {
+		audioSource.volume = value;
+	}
 }

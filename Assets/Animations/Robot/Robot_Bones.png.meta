@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: e504199a5d9ccbb43bfe55c5e6b06b4e
+timeCreated: 1498397592
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robot_Bones_Foot_r
+    21300002: Robot_Bones_Knee_r
+    21300004: Robot_Bones_Shin_r
+    21300006: Robot_Bones_Thigh_r
+    21300008: Robot_Bones_Foot_l
+    21300010: Robot_Bones_Knee_l
+    21300012: Robot_Bones_Shin_l
+    21300014: Robot_Bones_7
+    21300016: Robot_Bones_Fore_r
+    21300018: Robot_Bones_9
+    21300020: Robot_Bones_Fist_r
+    21300022: Robot_Bones_Fist_l
+    21300024: Robot_Bones_12
+    21300026: Robot_Bones_Fore_l
+    21300028: Robot_Bones_thigh_l
+    21300030: Robot_Bones_15
+    21300032: Robot_Bones_16
+    21300034: Robot_Bones_17
+    21300036: Robot_Bones_18
+    21300038: Robot_Bones_Head
+    21300040: Robot_Bones_Collar
+    21300042: Robot_Bones_21
+    21300044: Robot_Bones_Chest
+    21300046: Robot_Bones_Arm_Upper_l
+    21300048: Robot_Bones_Pelvis
+    21300050: Robot_Bones_25
+    21300052: Robot_Bones_26
+    21300054: Robot_Bones_27
+    21300056: Robot_Bones_28
+    21300058: Robot_Bones_Abdomen
+    21300060: Robot_Bones_30
+    21300062: Robot_Bones_31
+    21300064: Robot_Bones_32
+    21300066: Robot_Bones_33
+    21300068: Robot_Bones_Arm_upper_r
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot_Bones_Foot_r
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 394
+        width: 118
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 74.5}
+        - {x: -59, y: -62.5}
+        - {x: -52, y: -66.5}
+        - {x: -32, y: -74.5}
+        - {x: 59, y: -74.5}
+        - {x: 59, y: 55.5}
+        - {x: 24, y: 74.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Knee_r
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 403
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 70}
+        - {x: -61, y: -39}
+        - {x: -50, y: -70}
+        - {x: 44, y: -70}
+        - {x: 61, y: -35}
+        - {x: 61, y: 51}
+        - {x: 49, y: 70}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Shin_r
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 438
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 56}
+        - {x: -56, y: 47}
+        - {x: -56, y: -42}
+        - {x: -18, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 40}
+        - {x: 37, y: 56}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Thigh_r
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 444
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 51}
+        - {x: -52.5, y: 45}
+        - {x: -52.5, y: -20}
+        - {x: -26.5, y: -51}
+        - {x: 30.5, y: -51}
+        - {x: 48.5, y: -36}
+        - {x: 48.5, y: 44}
+        - {x: 18.5, y: 51}
+      - - {x: 47.5, y: 0}
+        - {x: 47.5, y: -4}
+        - {x: 49.5, y: -6}
+        - {x: 52.5, y: -6}
+        - {x: 52.5, y: 2}
+        - {x: 49.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Foot_l
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 436
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 53.5}
+        - {x: -79, y: 46.5}
+        - {x: -79, y: -39.5}
+        - {x: -78, y: -46.5}
+        - {x: -68, y: -53.5}
+        - {x: 79, y: -53.5}
+        - {x: 79, y: 34.5}
+        - {x: -9, y: 53.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Knee_l
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 414
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 63}
+        - {x: -51, y: 39}
+        - {x: -49, y: 31}
+        - {x: -41, y: 26}
+        - {x: -53, y: 18}
+        - {x: -53, y: -28}
+        - {x: -42, y: -63}
+        - {x: 29, y: -63}
+        - {x: 53, y: -17}
+        - {x: 53, y: 45}
+        - {x: 25, y: 63}
+      - - {x: -46, y: -52}
+        - {x: -46, y: -53}
+        - {x: -40, y: -58}
+        - {x: -37, y: -57}
+        - {x: -37, y: -52}
+        - {x: -39, y: -50}
+        - {x: -43, y: -49}
+      - - {x: -47, y: -25}
+        - {x: -49, y: -25}
+        - {x: -50, y: -27}
+        - {x: -50, y: -29}
+        - {x: -48, y: -31}
+        - {x: -46, y: -31}
+        - {x: -44, y: -29}
+        - {x: -44, y: -26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Shin_l
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 441
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 50.5}
+        - {x: -65, y: -44.5}
+        - {x: -32, y: -50.5}
+        - {x: 57, y: -50.5}
+        - {x: 65, y: -35.5}
+        - {x: 65, y: 42.5}
+        - {x: 62, y: 50.5}
+      - - {x: -56, y: -34.5}
+        - {x: -53, y: -33.5}
+        - {x: -53, y: -30.5}
+        - {x: -56, y: -29.5}
+        - {x: -58, y: -31.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Fore_r
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 303
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 63.5}
+        - {x: -30.5, y: 63.5}
+        - {x: -57.5, y: 39.5}
+        - {x: -57.5, y: -53.5}
+        - {x: -45.5, y: -55.5}
+        - {x: 37.5, y: -55.5}
+        - {x: 53.5, y: -38.5}
+        - {x: 57.5, y: -22.5}
+        - {x: 57.5, y: 38.5}
+      - - {x: 54.5, y: 4.5}
+        - {x: 56.5, y: 2.5}
+        - {x: 57.5, y: 2.5}
+        - {x: 57.5, y: 7.5}
+        - {x: 55.5, y: 7.5}
+      - - {x: 1.5, y: 62.5}
+        - {x: 5.5, y: 59.5}
+        - {x: 7.5, y: 59.5}
+        - {x: 9.5, y: 61.5}
+        - {x: 7.5, y: 65.5}
+        - {x: 1.5, y: 65.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Fist_r
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 262
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 65}
+        - {x: -60.5, y: 65}
+        - {x: -64.5, y: 64}
+        - {x: -64.5, y: -47}
+        - {x: -59.5, y: -65}
+        - {x: 15.5, y: -65}
+        - {x: 48.5, y: -38}
+        - {x: 64.5, y: -14}
+        - {x: 64.5, y: 63}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Fist_l
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 298
+        width: 138
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 52.5}
+        - {x: -61, y: 29.5}
+        - {x: -62, y: 19.5}
+        - {x: -62, y: -37.5}
+        - {x: -46, y: -52.5}
+        - {x: 58, y: -52.5}
+        - {x: 69, y: -21.5}
+        - {x: 69, y: 52.5}
+      - - {x: -69, y: -47.5}
+        - {x: -66, y: -46.5}
+        - {x: -65, y: -42.5}
+        - {x: -67, y: -40.5}
+        - {x: -69, y: -40.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Fore_l
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 307
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 58}
+        - {x: -39, y: 58}
+        - {x: -65, y: 30}
+        - {x: -65, y: -35}
+        - {x: -38, y: -58}
+        - {x: 61, y: -58}
+        - {x: 65, y: -41}
+        - {x: 65, y: 31}
+        - {x: 64, y: 32}
+      - - {x: -65, y: 30}
+        - {x: -65, y: 24}
+        - {x: -64, y: 24}
+        - {x: -60, y: 27}
+        - {x: -59, y: 31}
+        - {x: -62, y: 33}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_thigh_l
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 291
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -43}
+        - {x: 5.5, y: -45}
+        - {x: 11.5, y: -45}
+        - {x: 11.5, y: -44}
+        - {x: 8.5, y: -41}
+        - {x: 7.5, y: -41}
+      - - {x: 44.5, y: 38}
+        - {x: 11.5, y: 45}
+        - {x: -37.5, y: 45}
+        - {x: -55.5, y: 28}
+        - {x: -55.5, y: -20}
+        - {x: -50.5, y: -34}
+        - {x: -32.5, y: -37}
+        - {x: 37.5, y: -37}
+        - {x: 49.5, y: -25}
+        - {x: 55.5, y: -14}
+        - {x: 55.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Head
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 135
+        width: 178
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 76}
+        - {x: -87, y: 20}
+        - {x: -89, y: 16}
+        - {x: -89, y: -48}
+        - {x: -60, y: -76}
+        - {x: 50, y: -76}
+        - {x: 89, y: -27}
+        - {x: 89, y: 34}
+        - {x: 77, y: 76}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Collar
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 111
+        width: 164
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 85}
+        - {x: 12, y: 83}
+        - {x: 19, y: 10}
+        - {x: -72, y: -38}
+        - {x: -82, y: -46}
+        - {x: -82, y: -74}
+        - {x: -56, y: -85}
+        - {x: 33, y: -85}
+        - {x: 82, y: -32}
+        - {x: 82, y: 82}
+        - {x: 75, y: 85}
+      - - {x: 65, y: -40}
+        - {x: 64, y: -44}
+        - {x: 64, y: -51}
+        - {x: 70, y: -56}
+        - {x: 79, y: -56}
+        - {x: 82, y: -55}
+        - {x: 82, y: -48}
+        - {x: 74, y: -40}
+      - - {x: -14, y: -30}
+        - {x: -21, y: -32}
+        - {x: -24, y: -38}
+        - {x: -24, y: -42}
+        - {x: -16, y: -42}
+        - {x: -7, y: -40}
+        - {x: -4, y: -36}
+        - {x: -4, y: -30}
+      - - {x: 5, y: -27}
+        - {x: 5, y: -30}
+        - {x: 6, y: -33}
+        - {x: 11, y: -33}
+        - {x: 13, y: -30}
+        - {x: 13, y: -28}
+        - {x: 10, y: -25}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Chest
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 45
+        width: 225
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 123.5}
+        - {x: -79.5, y: 83.5}
+        - {x: -112.5, y: 13.5}
+        - {x: -112.5, y: -72.5}
+        - {x: -69.5, y: -123.5}
+        - {x: 79.5, y: -123.5}
+        - {x: 112.5, y: -75.5}
+        - {x: 112.5, y: 106.5}
+        - {x: 59.5, y: 123.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Arm_Upper_l
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 50}
+        - {x: -72, y: 8}
+        - {x: -72, y: -50}
+        - {x: 32, y: -50}
+        - {x: 72, y: -42}
+        - {x: 72, y: 32}
+        - {x: 11, y: 50}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 134
+        width: 192
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 56.5}
+        - {x: -96, y: -23.5}
+        - {x: -78, y: -56.5}
+        - {x: 52, y: -56.5}
+        - {x: 96, y: -38.5}
+        - {x: 96, y: 56.5}
+      - - {x: -92, y: -13.5}
+        - {x: -96, y: -13.5}
+        - {x: -96, y: -37.5}
+        - {x: -94, y: -37.5}
+        - {x: -89, y: -34.5}
+        - {x: -88, y: -32.5}
+        - {x: -88, y: -20.5}
+      - - {x: 80, y: 56.5}
+        - {x: 80, y: 44.5}
+        - {x: 89, y: 44.5}
+        - {x: 90, y: 47.5}
+        - {x: 90, y: 56.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Abdomen
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 52
+        width: 161
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: -36}
+        - {x: -76.5, y: -37}
+        - {x: -77.5, y: -43}
+        - {x: -67.5, y: -43}
+        - {x: -67.5, y: -38}
+        - {x: -68.5, y: -36}
+      - - {x: 71.5, y: -38}
+        - {x: 67.5, y: -40}
+        - {x: 67.5, y: -43}
+        - {x: 74.5, y: -43}
+        - {x: 75.5, y: -42}
+        - {x: 75.5, y: -40}
+        - {x: 74.5, y: -38}
+      - - {x: -80.5, y: 43}
+        - {x: -80.5, y: -43}
+        - {x: 64.5, y: -43}
+        - {x: 80.5, y: -35}
+        - {x: 80.5, y: 14}
+        - {x: 73.5, y: 43}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_Bones_Arm_upper_r
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 296
+        width: 187
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
