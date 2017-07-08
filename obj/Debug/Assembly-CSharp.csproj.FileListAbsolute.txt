@@ -29,3 +29,4 @@ C:\Users\Dieedi\Documents\unity\projects\Glitch_Garden\Temp\bin\Debug\UnityEngin
 C:\Users\Dieedi\Documents\unity\projects\Glitch_Garden\Temp\bin\Debug\UnityEngine.VR.xml
 C:\Users\Dieedi\Documents\unity\projects\Glitch_Garden\obj\Debug\Assembly-CSharp.dll
 C:\Users\Dieedi\Documents\unity\projects\Glitch_Garden\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Dieedi\Documents\unity\projects\Glitch_Garden\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
